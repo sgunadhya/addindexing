@@ -1,0 +1,23 @@
+{
+  "name": "noveltotext",
+  "version": "1.0.0",
+  "description": "A tool to convert pdf to text",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "."
+  },
+  "keywords": [
+    "novel",
+    "text"
+  ],
+  "author": "Sushant Srivastava",
+  "license": "MIT",
+  "dependencies": {
+    "epub-to-text": "git+https://github.com/Projet-TAMIS/epub-to-text.git",
+    "pdf-parse": "^1.1.1"
+  }
+}

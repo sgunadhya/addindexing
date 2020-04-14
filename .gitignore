@@ -1,0 +1,5 @@
+novels/
+text_version/
+node_modules/
+.DS_store
+.idea/
